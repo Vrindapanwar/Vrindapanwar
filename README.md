@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vrindapanwar
 - 👀 I’m interested in front end web development 
 - 🌱 I’m currently learning Javascript, react 
-- 💞️ what to collaborate on github
+- 💞️ want to collaborate on github
 - 📫 How to reach me vrindapanwar1@gmail.com 
 
 <!---
